@@ -41,7 +41,7 @@ title = 'Ubuntu'
 '''
     devices = []
     env = [ 'GOW_REQUIRED_DEVICES=/dev/input/* /dev/dri/* /dev/nvidia*' ]
-    image = 'gow-ubuntu:latest'
+    image = 'ghcr.io/mollomm1/gow-ubuntu:main'
     mounts = []
     name = 'UbuntuDesktop'
     ports = []
