@@ -15,6 +15,7 @@ An experimental Ubuntu desktop image for Wolf, including Flatpak support.
 
 ## Known Issues
 - GNOME Terminal does not launch; XFCE Terminal is installed as a replacement.
+- Mouse is unable to lock, if you plan to play games you should use a controller.
 
 ## To-Do List
 - Implement support for custom resolutions.
